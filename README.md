@@ -29,14 +29,6 @@ Speech-to-text translation pipeline for informal English–Malay code-switched s
 
 ---
 
-## 📊 GitHub Stats
-
-![Syukran's GitHub stats](https://github-readme-stats.vercel.app/api?username=SyukranSJ&show_icons=true&theme=tokyonight&cache_seconds=1800)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SyukranSJ&layout=compact&theme=tokyonight)
-
----
-
 ## 📫 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/syukran-shabaruddin)
