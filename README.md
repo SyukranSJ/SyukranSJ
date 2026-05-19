@@ -1,16 +1,48 @@
-## Hi there 👋
+# Hi 👋, I'm Syukran SJ
 
-<!--
-**SyukranSJ/SyukranSJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### AI & Machine Learning Student @ University of Nottingham Malaysia
 
-Here are some ideas to get you started:
+[![My Skills](https://skillicons.dev/icons?i=python,pytorch,tensorflow,aws,linux,git,docker,c,cpp,java)](https://skillicons.dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Hugging Face](https://img.shields.io/badge/HuggingFace-Transformers-yellow?style=for-the-badge&logo=huggingface&logoColor=black)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=38BDF8&width=700&lines=AI+%26+Machine+Learning+Student;Building+Manglish+ASR+Systems;Transformers+%7C+PyTorch+%7C+AWS;Speech+Recognition+%7C+NLP)](https://git.io/typing-svg)
+
+---
+
+## 🚀 Featured Project
+
+### Manglish ASR + Translation System
+Speech-to-text translation pipeline for informal English–Malay code-switched speech using Transformers and Hugging Face.
+
+🔗 https://github.com/SyukranSJ/manglish-asr-translation
+
+---
+
+## ☁️ Certifications
+
+- AWS – Developing Machine Learning Solutions
+- AWS – Fundamentals of Machine Learning and Artificial Intelligence
+- AWS - Amazon QuickSight Advanced Business Intelligence Authoring (Part 1 & 2)
+- AWS - Generative BI with Amazon Q in Quicksight - Getting Started
+- AWS – Fundamentals of Prompt Engineering with Claude
+
+---
+
+## 📊 GitHub Stats
+
+![Syukran's GitHub stats](https://github-readme-stats.vercel.app/api?username=SyukranSJ&show_icons=true&theme=tokyonight&cache_seconds=1800)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SyukranSJ&layout=compact&theme=tokyonight)
+
+---
+
+## 📫 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/syukran-shabaruddin)
+
+[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:syukswork@gmail.com)
+
+---
+
+![](https://komarev.com/ghpvc/?username=SyukranSJ&color=blue)
