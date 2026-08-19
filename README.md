@@ -32,6 +32,8 @@ Speech-to-text translation pipeline for informal English–Malay code-switched s
 - AWS - Amazon QuickSight Advanced Business Intelligence Authoring (Part 1 & 2)
 - AWS - Generative BI with Amazon Q in Quicksight - Getting Started
 - AWS – Fundamentals of Prompt Engineering with Claude
+- AWS - Advanced SQL and Database Design
+- AWS - Amazon Quick for IT Professionals
 
 ---
 
