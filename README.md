@@ -1,6 +1,12 @@
-# Hi 👋, I'm Syukran SJ
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/SyukranSJ/SyukranSJ/main/dark_v2.svg"
+    width="100%"
+    alt="Syukran SJ"
+  />
+</p>
 
-### AI & Machine Learning Student @ University of Nottingham Malaysia
+### AI & Machine Learning is my passion
 
 [![My Skills](https://skillicons.dev/icons?i=python,pytorch,tensorflow,aws,linux,git,docker,c,cpp,java)](https://skillicons.dev)
 
